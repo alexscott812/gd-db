@@ -1,5 +1,5 @@
 # gd-db
 Grateful Dead Show Data (~);}
 
-## about
+## About
 A YAML file containing all Grateful Dead show data, including dates, locations, and setlist info.
